@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 3 Assignment</title>
+    <style>
+        h1
+        {
+            color: brown;
+            background-color: blanchedalmond;
+            border-style: solid;
+            align-items: stretch;
+        }
+        #like_para
+        {
+            font-size: 38px;
+            position: relative;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Day 3 Assignment</h1>
+    <h2 style="color:chartreuse;">This Assignment is submitted as part of Day 3 HTML and CSS Essentials bootcamp to Letsupgrade</h2>
+    <p id="like_para">Hit the Like button if you are liking the <a href="https://luc.to/htmloctonelink" target="_blank">course </a></p>
+</body>
+</html>
